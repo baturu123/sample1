@@ -12,6 +12,11 @@ body{
     flex-direction: column;
     background-color: #000;
 }
+
+@media only screen and (max-width: 600px) {
+
+}
+
 .txt-group {
     margin: 20px, 0;
     position: relative;
